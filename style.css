@@ -7,11 +7,12 @@ html {
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(rgb(42, 240, 59), rgb(26, 47, 238));
 }
 
-button {
-  font-size: 7px;
+#submitButton {
+  font-size: 15px;
+  background-color: yellow;
 }
 
 #main-content {
